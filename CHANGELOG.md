@@ -14,3 +14,4 @@
 - fix: link the usage section
 - docs: link the usage section
 - fix: link the usage section
+- chore: add a note about the defaults
