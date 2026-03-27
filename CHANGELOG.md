@@ -42,3 +42,4 @@
 - fix: fix a small wording issue
 - docs: fix a small wording issue
 - docs: clarify the setup steps
+- fix: add a note about the defaults
