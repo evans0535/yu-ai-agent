@@ -47,3 +47,4 @@ Notes and usage details for yu-ai-agent.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
