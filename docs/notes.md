@@ -55,3 +55,4 @@ Notes and usage details for yu-ai-agent.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
